@@ -1,0 +1,5 @@
+{
+  "miConfig": "esta es mi configuración externa",
+  "otroValor": 123,
+  "urlRest": "http://localhost:8081"
+}
